@@ -27,7 +27,7 @@ Primarily as a learning exercise in how to write tests with Golang I release thi
 * [ ] HSL
 * [ ] HSL to Colour String
 * [ ] HSLA
-* [ ] invert
+* [x] invert
 * [ ] lighten
 * [x] mix
 * [ ] opacify
