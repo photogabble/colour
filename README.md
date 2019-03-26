@@ -22,7 +22,7 @@ Primarily as a learning exercise in how to write tests with Golang I release thi
 * [ ] complement
 * [ ] darken
 * [ ] desaturate
-* [ ] get luminance
+* [x] get luminance
 * [ ] grayscale
 * [ ] HSL
 * [ ] HSL to Colour String
