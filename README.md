@@ -30,7 +30,7 @@ Primarily as a learning exercise in how to write tests with Golang I release thi
 * [x] invert
 * [ ] lighten
 * [x] mix
-* [ ] opacify
+* [x] opacify
 * [ ] parse to HSL
 * [ ] parse to RGB
 * [ ] readable colour

@@ -18,6 +18,10 @@ type HslaColour struct {
 
 type convert func(R, G, B uint8) color.RGBA
 
+func Guard(min, max, x float64) float64 {
+	return math.Max(min, math.Min(max, x))
+}
+
 func NumberToHexString(colour uint8) string {
 	var input = []byte{colour}
 	return hex.EncodeToString(input)
